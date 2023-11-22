@@ -1,1 +1,40 @@
+body {
+    background: #cccccc
+}
 
+h1{
+  text-align: center
+}
+
+.principal{
+    background: #cccccc;
+}
+
+p {
+  text-align: center;
+}
+
+#missão {
+  font-size: 20px
+}
+
+em strong {
+  color: #FF0000;
+}
+
+em strong {
+  color: #FF0000;
+
+}
+
+.itens {
+  font-style: italic
+}
+
+.beneficios {
+  background: #FFFFFF;
+}
+
+h2 {
+    text-align: center;
+}
